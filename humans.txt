@@ -2,7 +2,9 @@
 # The humans responsible & technology colophon
 
 Hi I am modifying the file before rebase. Added more text.
-Adding more text again in master branch
+Adding more text again in master branch.
+
+Added some changes in local repo.
 
 # TEAM
 
