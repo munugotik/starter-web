@@ -6,6 +6,8 @@ Adding more text again in master branch.
 
 Added some changes in local repo.
 
+Adding some important test for Stash.
+
 # TEAM
 
     Kotesh - Developer
