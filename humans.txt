@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angular
-    jQuery, Modernizr
+    HTML5, CSS3, Angular, XML
+    jQuery, Modernizr, Ajax
