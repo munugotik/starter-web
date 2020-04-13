@@ -6,9 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Devops Traing
+## DevOps Training
 
-This is demos
+This is DevOps training course from Udemy.
 
 ## Git & GitHub Training
 This is training course for git
