@@ -2,10 +2,11 @@
 # The humans responsible & technology colophon
 
 Hi I am modifying the file before rebase. Added more text.
+Adding more text again in master branch
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kotesh - Developer
 
 # THANKS
 
