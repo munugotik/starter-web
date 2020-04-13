@@ -12,3 +12,6 @@ This is DevOps training course from Udemy. And still more practice required.
 
 ## Git & GitHub Training
 This is training course for git
+
+## Learning GIT Stash
+This is to learn and practice Git Stash
