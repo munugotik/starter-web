@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## DevOps Training
 
-This is DevOps training course from Udemy.
+This is DevOps training course from Udemy. And still more practice required.
 
 ## Git & GitHub Training
 This is training course for git
