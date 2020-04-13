@@ -16,3 +16,5 @@ This is training course for git
 ## Learning GIT Stash
 This is to learn and practice Git Stash.
 This changed is staged.
+
+Stashing to branch
