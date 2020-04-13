@@ -18,3 +18,5 @@ This is to learn and practice Git Stash.
 This changed is staged.
 
 Stashing to branch
+
+Tagging
